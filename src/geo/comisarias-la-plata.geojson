@@ -1,0 +1,372 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "SUBCRIA.GORINA",
+        "Dirección": "140 BIS ENTRE 492 Y 501",
+        "Partido": "La Plata",
+        "Teléfono": "2214848037",
+        "Representa": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0365926,
+          -34.90889071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "CRIA.LA PLATA 5TA",
+        "Dirección": "DIAG. 74 E/ 24 Y 23",
+        "Partido": "La Plata",
+        "Teléfono": "0221-4577122/21",
+        "Representa": "COMISARIO CORDOBA CARLOS ALBERTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.95373,
+          -34.940075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "CRIA.LA PLATA 3RA",
+        "Dirección": "137 E/ 61 Y 62",
+        "Partido": "La Plata",
+        "Teléfono": "0221-4507890/ 4560934",
+        "Representa": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.971453,
+          -34.950697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "CRIA.LA PLATA 13RA",
+        "Dirección": "502 E/ 14 Y 15",
+        "Partido": "La Plata",
+        "Teléfono": "0221-4713500/5434/4847147",
+        "Representa": "SUBCOMISARIO GORBARAN JUAN MANUEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.010395,
+          -34.882484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "CRIA.LA PLATA 14TA",
+        "Dirección": "173 E/ 517 BIS Y 517",
+        "Partido": "La Plata",
+        "Teléfono": "0221-478-1684/ 1154",
+        "Representa": "SUBCOMISARIO LLONTOP FENCO HEBERT JHONY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.054677,
+          -34.95027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "CRIA.LA PLATA 12DA",
+        "Dirección": "12 E/ 48 Y 49",
+        "Partido": "La Plata",
+        "Teléfono": "0221-4731328/1599/0075",
+        "Representa": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.08774,
+          -34.857187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "CRIA.LA PLATA 16TA",
+        "Dirección": "121 E/ 81 Y 82",
+        "Partido": "La Plata",
+        "Teléfono": "2214574553",
+        "Representa": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.90464,
+          -34.926172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "SUBCRIA.ARANA",
+        "Dirección": "640 Y 141",
+        "Partido": "La Plata",
+        "Teléfono": "0221-4910316",
+        "Representa": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.90536168,
+          -35.00482637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "CRIA.LA PLATA 8VA",
+        "Dirección": "7 E/ 75 Y 74",
+        "Partido": "La Plata",
+        "Teléfono": "0221-4577124/ 5/ 4524322",
+        "Representa": "COMISARIO CASA MARTIN RAFAEL BONIFACIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.92513,
+          -34.932709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "CRIA.LA PLATA 9NA",
+        "Dirección": "5 E/ 59 Y 60",
+        "Partido": "La Plata",
+        "Teléfono": "0221-4231953/54/4213978",
+        "Representa": "SUBCOMISARIO SAEZ MATIAS ALFREDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.940087,
+          -34.91812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "CRIA.LA PLATA 1RA",
+        "Dirección": "AV. 53 e/ 10 y 9",
+        "Partido": "La Plata",
+        "Teléfono": "0221-423-1945/6",
+        "Representa": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.95055002,
+          -34.91894484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "CRIA.LA PLATA 2DA",
+        "Dirección": "38 E/ 7 Y 8",
+        "Partido": "La Plata",
+        "Teléfono": "0221-4231947/48/4230649",
+        "Representa": "COMISARIO TOLABA ALBERTO DANIEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.963126,
+          -34.906217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "CRIA.LA PLATA 6TA",
+        "Dirección": "1 E/ 527 Y 528",
+        "Partido": "La Plata",
+        "Teléfono": "2214258063/4231952/4231951",
+        "Representa": "COMISARIO INSPECTOR CABIRON MARTIN ANDRES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.966389,
+          -34.892078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "CRIA.LA PLATA 4TA",
+        "Dirección": "DIAG. 73 E/ 21 Y 22",
+        "Partido": "La Plata",
+        "Teléfono": "0221-4231949/50",
+        "Representa": "COMISARIO SANCHEZ CARLOS DARIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.972949,
+          -34.921877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "CRIA.LA PLATA 11RA",
+        "Dirección": "530 E/ 14 Y 15",
+        "Partido": "La Plata",
+        "Teléfono": "2214270544/4231955",
+        "Representa": "SUBCOMISARIO VIZCARRA JUAN JOSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.978855,
+          -34.905771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "SUBCRIA.HERNANDEZ",
+        "Dirección": "511 ENTRE 29 Y 30",
+        "Partido": "La Plata",
+        "Teléfono": "2214715492",
+        "Representa": "SUBCOMISARIO BENITEZ FRANCISCO JAVIER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.01565249,
+          -34.90354186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "CRIA.LA PLATA 10MA",
+        "Dirección": "2 E/ 12 Y 13",
+        "Partido": "La Plata",
+        "Teléfono": "2214721366/4722928/4722909",
+        "Representa": "COMISARIO CLAURE JUAN ANGEL DANIEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.048434,
+          -34.871829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "CRIA.LA PLATA 15TA",
+        "Dirección": "AVE 44 NRO. 5350",
+        "Partido": "La Plata",
+        "Teléfono": "022-4963036",
+        "Representa": "SUBCOMISARIO QUINTANA FERNANDO ROBERTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.053611,
+          -35.000519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Dependencia": "Comisaría",
+        "Organismo": "Ministerio de Seguridad",
+        "Nombre": "CRIA.LA PLATA 7MA",
+        "Dirección": "520 E/ 213 Y 212",
+        "Partido": "La Plata",
+        "Teléfono": "0221-4913300/3500/6300",
+        "Representa": "COMISARIO SOLER JUAN SEBASTIAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.091457,
+          -34.989132
+        ]
+      }
+    }
+  ]
+}
